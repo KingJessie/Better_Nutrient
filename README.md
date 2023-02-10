@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [Objective](#objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Our process](#my-process)
@@ -11,6 +11,7 @@
   - [What we learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Author](#author)
+  - [Credits](#credits)
 
 <br>
 
@@ -19,9 +20,10 @@
 Better Nutrient is a website that focuses on promoting healthy living. It provides users with the ability to search for a specific food of their choice, and in return, it displays the corresponding nutrients and recipe based on their input. This enables users to track their food intake to ensure they are obtaining the necessary nutrients they require daily.
 
 
-### The challenge
+### Objective
 
-This week we were challenged to work collaboratively with a team of peers to build this webpage from concept to deployment. Our objective was to have a minimum viable product ready for release.
+Our objective was to work together as a team to develop this web application, starting from the idea phase and continuing through to deployment. Our goal was to ensure that we had a minimum viable product that was ready for release.
+
 <br>
 
 ## Screenshot
@@ -76,3 +78,9 @@ Ebele Precious Okemba
 
 Sophie Perks
 - GitHub - [Sophie Senge](https://github.com/Sophie-Senge)
+
+### Credits
+
+- Image: Shaif Arfan
+- Icons: Icons8
+
