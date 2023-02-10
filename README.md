@@ -60,7 +60,6 @@ We've also learned the importance of collaborative learning and sharing of ideas
 <br>
 
 
-
 ## Continued development
 
 For future development, our aim is to introduce a feature that provides users with healthy smoothie recipes to complement their healthy meal choices.
