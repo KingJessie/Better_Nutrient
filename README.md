@@ -36,7 +36,7 @@ This week we were challenged to work collaboratively with a team of peers to bui
 
 
 ## Our process
-We had to find two different working free Api's and from there come up with a way to utilize them in a project. We had many attempts with different ideas and eventually landed on one for recipes and one for nutritional values. From there we just had to divide the work load fairly and get to work.
+We were required to find two different, functional, and free APIs and devise a strategy for incorporating them into our project. Numerous efforts were made with various concepts before we settled on recipes and nutritional values for healthy lifestyle and encourage healthy eating habits through our platform.
 
 ### Built with
 
@@ -63,7 +63,7 @@ We've also learned the importance of collaborative learning and sharing of ideas
 ## Continued development
 
 For future development, our aim is to introduce a feature that provides users with healthy smoothie recipes to complement their healthy meal choices.
-Additionally, we will include a health and wellness blog to provide users with informative articles on healthy eating and wellness.
+Additionally, we will include a health and wellness blog to provide users with informative and educational articles on healthy eating and wellness.
 <br>
 
 
