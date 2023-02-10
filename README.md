@@ -16,8 +16,7 @@
 
 ## Overview
 
-A one stop webpage to get all the nutritional values of any searched food items as well as top eight recipies from around the web with links to the full recipes.
-
+Better Nutrient is a website that focuses on promoting healthy living. It provides users with the ability to search for a specific food of their choice, and in return, it displays the corresponding nutrients and recipe based on their input. This enables users to track their food intake to ensure they are obtaining the necessary nutrients they require daily.
 
 
 ### The challenge
@@ -26,13 +25,13 @@ This week we were challenged to work collaboratively with a team of peers to bui
 <br>
 
 ## Screenshot
-![Screenshot of the website](/images/BN-screenshot.png)
+![Screenshot of the website](./assets/images/BN-screenshot.png)
 
 
 
 ## Links
 
-- Live Site URL: https://preshy59.github.io/group23_project/
+- Live Site URL: https://kingjessie.github.io/Better_Nutrient/
 <br>
 
 
